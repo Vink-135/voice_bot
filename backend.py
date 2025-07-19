@@ -4,7 +4,7 @@ from gtts import gTTS
 import os
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDLroi3bsPaMWNINxG8ymAmSPxHlpBZM9Q")
+genai.configure(api_key="YOUR API KEY")
 
 def record_and_transcribe():
     r = sr.Recognizer()
