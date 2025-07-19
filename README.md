@@ -34,7 +34,7 @@
 ```bash
 Gemini-VoiceBot/
 │
-├── app.py                 # Streamlit UI
+├── voice_ui.py                 # Streamlit UI
 ├── backend.py             # All backend functions
 ├── requirements.txt       # All dependencies
 └── README.md              # You’re reading this file!
